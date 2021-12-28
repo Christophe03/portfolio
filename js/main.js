@@ -1,7 +1,3 @@
- AOS.init({
- 	duration: 2000,
- 	easing: 'slide'
- });
 
 (function($) {
 
